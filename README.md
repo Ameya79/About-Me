@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ameya Kulkarni
 
-🧠 I learn by building — small, useful projects that teach me something real.  
+🧠 I learn by building small, useful projects that teach me something real.  
 🐍 Mostly Python. Interested in data science & python stacks.
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-## ⚙️ Current Stack
+## ⚙️ Skills
 Python · Pandas (learning) · Flask · HTML/CSS (basic) · GitHub · MySQL (basic)
 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/ameya-kulkarni-a31b74246)
 📫 [View my Codolio](https://codolio.com/profile/Ameya%20Kulkarni)
