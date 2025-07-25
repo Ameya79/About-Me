@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ameya Kulkarni
 
 🧠 I learn by building — small, useful projects that teach me something real.  
-🐍 Mostly Python. Interested in data analysis, automation, and building beginner tools.
+🐍 Mostly Python. Interested in data science & python stacks.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 📚 What I Focus On
 - Learning **step-by-step**, not skipping the "why"  
-- Writing beginner-friendly code that *actually works*  
+- Building projects that can be used in real life 
 - Exploring **data**, **logic building**, and some **web basics**
 
 ---
