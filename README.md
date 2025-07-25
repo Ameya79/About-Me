@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Ameya Kulkarni
----
 
 🧠 I learn by building — small, useful projects that teach me something real.  
 🐍 Mostly Python. Interested in data analysis, automation, and building beginner tools.
