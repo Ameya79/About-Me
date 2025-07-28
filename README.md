@@ -19,6 +19,9 @@
 
 ---
 
+## 🤝Projects:
+- Squeezy : Image Compressor 
+
 ## ⚙️ Skills
 Python · Pandas (learning) · Flask · HTML/CSS (basic) · GitHub · MySQL (basic)
 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/ameya-kulkarni-a31b74246)
