@@ -28,7 +28,7 @@
 
 ## Working On 🍳:
 - Squeezy Further development 
-- Attendance tracker (🆕)
+- Attendance Manager For Teachers (🆕)
 
 
 ## ⚙️ Skills
