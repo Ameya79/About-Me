@@ -24,6 +24,13 @@
 - Expense Tracker (With Downloadable CSV)
 - Weatherly: Weather API based Weather App
 
+---
+
+## Working On 🍳:
+- Squeezy Further development 
+- Attendance tracker (🆕)
+
+
 ## ⚙️ Skills
 Python · Pandas (learning) · Flask · HTML/CSS (basic) · GitHub · MySQL (basic)
 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/ameya-kulkarni-a31b74246)
