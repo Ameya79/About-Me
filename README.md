@@ -37,4 +37,7 @@ Python · Pandas (learning) · Flask · HTML/CSS (basic) · GitHub · MySQL (bas
 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/ameya-kulkarni-a31b74246)
 🎯 [View my Codolio](https://codolio.com/profile/Ameya%20Kulkarni)
 
+---
+
 ## All the projects are open source 
+- Feel Free to leave a ⭐ 
