@@ -20,7 +20,9 @@
 ---
 
 ## 🤝Projects:
-- Squeezy : Image Compressor 
+- Squeezy : Image Compressor & Pdf Converter 
+- Expense Tracker (With Downloadable CSV)
+- 
 
 ## ⚙️ Skills
 Python · Pandas (learning) · Flask · HTML/CSS (basic) · GitHub · MySQL (basic)
