@@ -22,7 +22,7 @@
 ## 🤝Projects:
 - Squeezy : Image Compressor & Pdf Converter 
 - Expense Tracker (With Downloadable CSV)
-- 
+- Weatherly: Weather API based Weather App
 
 ## ⚙️ Skills
 Python · Pandas (learning) · Flask · HTML/CSS (basic) · GitHub · MySQL (basic)
