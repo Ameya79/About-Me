@@ -40,4 +40,4 @@ Python · Pandas (learning) · Flask · HTML/CSS (basic) · GitHub · MySQL (bas
 ---
 
 ## All the projects are open source 
-- Feel Free to leave a ⭐ 
+- Feel Free to leave a ⭐  & pull request 
