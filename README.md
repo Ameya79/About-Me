@@ -5,13 +5,6 @@
 
 ---
 
-## 🛠️ Projects
-- **Weatherly** – A clean Python weather app using OpenWeatherMap API  
-- **Expense Tracker** – A simple Flask-based tool to log and track spending  
-- **Mini Tools** – To-do app, BMI calculator, basic image search, and more
-
----
-
 ## 📚 What I Focus On
 - Learning **step-by-step**, not skipping the "why"  
 - Building projects that can be used in real life 
