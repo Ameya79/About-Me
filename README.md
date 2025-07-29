@@ -21,7 +21,7 @@
 
 ## Working On 🍳:
 - Squeezy Further development 
-- Attendance Manager For Teachers (🆕)
+- my portfolio website (🆕)
 
 
 ## ⚙️ Skills
