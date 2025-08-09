@@ -12,11 +12,11 @@
 
 ## 🚀 Projects  
 
-| Project | Description | Preview |
-|---------|-------------|---------|
-| **Squeezy** | Image Compressor & PDF Converter | <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="80"> |
-| **Expense Tracker** | CSV download for real-life expense tracking | <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="80"> |
-| **Weatherly** | Weather API based app with live conditions | <img src="https://media.giphy.com/media/xT0Gqz8zRxyTz0Z8yU/giphy.gif" width="80"> |
+| Project | Description |
+|---------|-------------|
+| **Squeezy** | Image Compressor & PDF Converter 
+| **Expense Tracker** | CSV download for real-life expense tracking 
+| **Weatherly** | Weather API based app with live conditions 
 
 ---
 
@@ -35,14 +35,14 @@
 
 ---
 
-## 📊 GitHub Stats (retro)
-![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ameya-Kulkarni&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 📊 GitHub Stats
+
+![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ameya-Kulkarni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameya-Kulkarni&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
 
 ---
 
