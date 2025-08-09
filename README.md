@@ -1,5 +1,5 @@
-<!-- Typing Intro (pixel font) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ameya+Kulkarni;I+learn+by+building+real+projects;Python+%7C+Data+Science+%7C+Flask+%28Beginner%29)](https://git.io/typing-svg)
+<!-- Typing Intro (pixel font with proper padding) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ameya+Kulkarni;I+learn+by+building+real+projects;Python+%7C+Data+Science+%7C+Flask+%28Beginner%29)](https://git.io/typing-svg)
 
 ---
 
@@ -10,10 +10,13 @@
 
 ---
 
-## 🚀 Projects
-- **Squeezy** — Image Compressor & PDF Converter  
-- **Expense Tracker** — With CSV download  
-- **Weatherly** — Weather API based Weather App
+## 🚀 Projects  
+
+| Project | Description | Preview |
+|---------|-------------|---------|
+| **Squeezy** | Image Compressor & PDF Converter | <img src="https://media.giphy.com/media/l0HlPjezGYpijW2fG/giphy.gif" width="80"> |
+| **Expense Tracker** | CSV download for real-life expense tracking | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80"> |
+| **Weatherly** | Weather API based app with live conditions | <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="80"> |
 
 ---
 
@@ -30,8 +33,6 @@
 ![MySQL - Learning](https://img.shields.io/badge/MySQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML - Learning](https://img.shields.io/badge/HTML-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-> Note: removed CSS as requested — focusing on core web basics and data tools.
-
 ---
 
 ## 📊 GitHub Stats (retro)
@@ -40,10 +41,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameya-Kulkarni&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
-## 🎮 Pixel Vibes & Data Animations
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" />  
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
 
 ---
 
