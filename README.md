@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 - I learn by **building small, useful projects** that teach me something real  
-- Step-by-step learning — I like understanding the *why*  
+- Step-by-step learning I like understanding the *why*  
 - Focus: **data**, **logic building**, and web basics
 
 ---
